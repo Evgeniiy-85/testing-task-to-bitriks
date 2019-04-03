@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a52a3c-70ae-4623-9917-46e7c76cba9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modelnyy-ryad/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/o-kompanii/banner.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/.default/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/.default/style/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3124">
+              <caret line="145" column="20" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax.handler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>banner</find>
+      <find>registration</find>
+      <find>SITE_TEMPLATE_PATH</find>
+      <find>registration-form</find>
+      <find>action</find>
+      <find>if</find>
+      <find>registered-users-list</find>
+      <find>table_users</find>
+      <find>successful</find>
+      <find>bx-auth-reg-successful</find>
+      <find>show_users</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DEFAULT_TEMPLATE_PATH</replace>
+      <replace>form_registration</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Projects\GitHub\testing-task-to-bitriks\local\templates\.default\components\bitrix\form</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/local/templates/testing_task/style/css/style.css" />
+        <option value="$PROJECT_DIR$/modelnyy-ryad/index.php" />
+        <option value="$PROJECT_DIR$/o-kompanii/index.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
+        <option value="$PROJECT_DIR$/404.php" />
+        <option value="$PROJECT_DIR$/../../test.txt" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.new/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.view/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.edit/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.list/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.new/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.view/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/testing_task/header.php" />
+        <option value="$PROJECT_DIR$/add_form_result.php" />
+        <option value="$PROJECT_DIR$/form_registration.php" />
+        <option value="$PROJECT_DIR$/registration.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/components/bitrix/main.register/registration_form/template.php" />
+        <option value="$PROJECT_DIR$/ajax.handler.php" />
+        <option value="$PROJECT_DIR$/local/templates/.default/js/main.js" />
+        <option value="$PROJECT_DIR$/local/templates/.default/style/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/testing-task-to-bitriks.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="132" />
+    <option name="y" value="477" />
+    <option name="width" value="2100" />
+    <option name="height" value="1320" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testing-task-to-bitriks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing-task-to-bitriks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modelnyy-ryad" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\GitHub\testing-task-to-bitriks\local\templates\.default\images" />
+      <recent name="E:\Projects\GitHub\testing-task-to-bitriks\local\templates\.default" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\GitHub\testing-task-to-bitriks\modelnyy-ryad" />
+      <recent name="E:\Projects\GitHub\testing-task-to-bitriks\o-kompanii" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a52a3c-70ae-4623-9917-46e7c76cba9b" name="Default Changelist" comment="" />
+      <created>1554009801663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554009801663</updated>
+      <workItem from="1554009804106" duration="12572000" />
+      <workItem from="1554043328687" duration="77000" />
+      <workItem from="1554095425280" duration="13843000" />
+      <workItem from="1554222380560" duration="2996000" />
+      <workItem from="1554231627294" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29573000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15153338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/o-kompanii/banner.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelnyy-ryad/banner.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelnyy-ryad/.section.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/o-kompanii/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelnyy-ryad/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlrewrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.top.menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration" />
+    <entry file="file://$PROJECT_DIR$/dilery/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servis/.section.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servis/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/new.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/list.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/edit.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.edit/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/view.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/menu/menu/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.new/.default/style.css" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.new/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form/bitrix/form.result.view/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.edit/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.list/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.new/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/bitrix/form.result.view/.default/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/new.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/view.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/testing_task/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_form_result.php" />
+    <entry file="file://$PROJECT_DIR$/form_registration.php" />
+    <entry file="file://$PROJECT_DIR$/../из битрикса/testovoe-zadanie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/form/form_registration/edit.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/components/bitrix/main.register/registration_form/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/.default/style/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3124">
+          <caret line="145" column="20" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

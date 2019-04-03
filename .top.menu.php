@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/o-kompanii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Модельный ряд", 
+		"/modelnyy-ryad/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Конфигуратор", 
+		"/konfigurator/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сервис", 
+		"/servis/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Дилеры", 
+		"/dilery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/novosti/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

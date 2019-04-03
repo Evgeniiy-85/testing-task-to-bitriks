@@ -1,0 +1,51 @@
+div.bx-auth-reg input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-reg span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-reg div.bx-auth-secure-icon {background-image:url(images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-reg div.bx-auth-secure-unlock {background-image:url(images/sec-unlocked.png);}
+
+.bx-auth-reg {
+	margin: 16px 0 33px;
+	color: #262524;
+}
+.bx-auth-reg-form {
+	width: 587px;
+	padding-top: 49px;
+}
+.bx-auth-reg-item {
+	display: flex;
+	line-height: 23px;
+	margin-bottom: 19px;
+}
+.bx-auth-reg-item label, .bx-auth-reg-successful {
+	font-size: 18px;
+}
+.bx-auth-reg-item input, .bx-auth-reg-item select {
+	height: 25px;
+	color: #262524;
+	font: 16px/36px 'OpenSans-Light';
+}
+.bx-auth-reg-item input, .bx-auth-reg-item select, .bx-auth-reg-item textarea {
+	width:275px;
+	margin-left: auto;
+}
+.bx-auth-reg-item input:not([type="file"]), .bx-auth-reg-item select, .bx-auth-reg-item textarea {
+	border: 1px #d36152 solid;
+	padding: 0 32px 0 10px;
+}
+.bx-auth-reg-item input:not([type="file"]):focus, .bx-auth-reg-item select:focus, .bx-auth-reg-item textarea:focus {
+	outline-color: #d36152 ;
+}
+.bx-auth-reg .submit {
+	width: 221px;
+	height: 40px;
+	float: right;
+	line-height: 40px;
+	font-size: 18px;
+	font-family: 'Myriad Pro';
+	color: #fff;
+	background-color: #d36152;
+	border: none;
+}
+.bx-auth-reg .submit:hover {
+	cursor: pointer;
+}

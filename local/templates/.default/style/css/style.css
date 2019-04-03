@@ -1,0 +1,271 @@
+* {
+	margin:0;
+	padding: 0;
+}
+*, :after, :before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+img {
+	max-width: 100%;
+}
+html, body {
+    height:100%;
+    width:100%;
+}
+body {
+    font: 14px/18px 'OpenSans-Light';
+	color: #262524;
+}
+ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+}
+.container {
+	max-width: 1010px;
+	margin: 0 auto;
+}
+
+/*HEADER BEGIN*/
+.top-header {
+	height: 13px;
+	background-color: #272727;
+	margin-bottom: 15px;
+}
+h1 {
+	text-align: center;
+	font-size: 24px;
+	line-height: 39.03px;
+}
+h1 .top-head {
+	color: #818181;
+}
+h1 .bottom-head {
+	color: #d36152;
+}
+h2 {
+	height: 40px;
+	margin-bottom: 33px;
+	text-align : center;
+	color: #fff;
+	background-color: #d36152;
+	font-size: 24px;
+	line-height: 40px;
+}
+h3 {
+	font: 18px/36px 'Myriad Pro';
+}
+header .cta {
+	float: right;
+}
+.social-icon {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 28px;
+	font-family: 'Myriad Pro';
+	color: #fff;
+	margin-left: 10px;
+}
+.vkontakte {
+	background-color: #252525;
+}
+.facebook {
+	background-color: #d36152;
+}
+.registration-toggle {
+	color: #828282;
+	margin-left: 21px;
+}
+.logo {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+.logo img {
+	width: 202px;
+	height: 178px;
+	margin-top: -29px;
+}
+/*MENU BEGIN*/
+.header-menu {
+	margin-top: 18px;
+	font-size: 16px;
+	line-height: 18px;
+	color: #fff;
+}
+.header-menu ul {
+	display: flex;
+}
+.header-menu ul li {
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #d36152;
+	float: left;
+}
+.header-menu ul li:hover,  .header-menu ul li.bx-active {
+	background-color: #2b2b2b;
+}
+.header-menu a {
+	height: 40px;
+}
+/*MENU END*/
+
+/*HEADER END*/
+
+/*MAIN CONTENT BEGIN*/
+.banner {
+	margin-bottom: 19px;
+}
+
+.registered-users {
+	height: 320px;
+}
+#dates_registered_users {
+	float: left;
+}
+.registered-users-list-box {
+	width: 67%;
+	float: right;
+	text-align: left;
+	font-size: 18px;
+	line-height: 30px;
+}
+.message-unsuccessful {
+	font-size: 18px;
+	display: none;
+}
+#registered-users-list {
+	display: none;
+	margin-bottom: 8px;
+}
+#registered-users-list thead td {
+	background-color: #d36152;
+	color: #fff;
+}
+#registered-users-list td {
+	text-align: center;
+	border: 1px #d36152 solid;
+}
+#show_users {
+	color: #d36152;
+	text-decoration: underline;
+}
+input.datepicker {
+	background: url('../images/cal.png') center right 2px no-repeat;
+	background-size: 22px 21px;
+}
+/*MAIN CONTENT END*/
+
+/*FOOTER BEGIN*/
+footer {
+	height: 161px;
+	margin-top: 80px;
+	color: #fff;
+	background: #292929;
+}
+.footer-text-left {
+	float: left;
+}
+.footer-text-right {
+	float: right;
+}
+/*FOOTER END*/
+
+/*DATEPICKER BEGIN*/
+.ui-datepicker.ui-widget-content  {
+	width:281px;
+	background-color: #fff;
+}
+.ui-datepicker.ui-widget-content , .ui-datepicker.ui-widget-content  * {
+	padding: 0!important;
+	border: none!important;
+	margin: 0;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-header {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	background-color: #d36152;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-calendar thead {
+	display: none;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-prev, .ui-datepicker.ui-widget-content  .ui-datepicker-next {
+	top: 5px;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-prev {
+	left: 1px;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-next {
+	right: 1px;
+}
+.ui-datepicker.ui-widget-content .ui-datepicker-prev.ui-state-hover, .ui-datepicker.ui-widget-content .ui-datepicker-next.ui-state-hover {
+	background-color: #f3705e
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-prev .ui-icon {
+	 background: url("../images/datepicker/prev.png") center center no-repeat;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-next .ui-icon {
+	background: url("../images/datepicker/next.png") center center no-repeat;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-title {
+	color: #fff;
+	font: 16px/36px 'OpenSans-Light';
+	height: 36px;
+}
+.ui-datepicker.ui-widget-content  td {
+	border: 1px #d0d4d9 solid!important;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-calendar a {
+	height: 39px;
+	width: 39px;
+	text-align: center;
+	color: #635351;
+	font: 14px/39px 'Myriad Pro';
+	background-color: #fff;
+}
+.ui-datepicker.ui-widget-content  .ui-state-default.ui-priority-secondary {
+	color: #cccfd3;
+	opacity: 1;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-current-day {
+	position: relative;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-current-day:after {
+	position: absolute;
+	display: block;
+	content: "";
+	width: 41px;
+	height: 41px;
+	top: -1px;
+	left: -1px;
+	border: 1px #ea4330 solid;
+}
+.ui-datepicker.ui-widget-content  .ui-datepicker-current-day .ui-state-default {
+	color: #d36152;
+	background: none;
+}
+.ui-datepicker.ui-widget-content .marked-date .ui-state-default {
+	background: url('../images/datepicker/marked-date.png') top right no-repeat;
+	background-size: 11px 11px;
+}
+.ui-datepicker.ui-widget-content  .ui-state-default.ui-state-hover {
+	background-color: #e7eaed;
+}
+.ui-datepicker.ui-widget-content  td.ui-datepicker-today .ui-state-default {
+	background-color: #d0d4d9;
+}
+/*DATEPICKER END*/
