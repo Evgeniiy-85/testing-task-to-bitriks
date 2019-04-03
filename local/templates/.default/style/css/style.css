@@ -178,10 +178,14 @@ footer {
 	color: #fff;
 	background: #292929;
 }
-.footer-text-left {
+.footer-info {
+	font-size: 14px;
+	padding-top: 81px;
+}
+.footer-info div:first-child {
 	float: left;
 }
-.footer-text-right {
+.footer-info div:last-child {
 	float: right;
 }
 /*FOOTER END*/
