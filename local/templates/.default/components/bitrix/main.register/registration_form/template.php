@@ -197,10 +197,10 @@
 			<?php endif /* !CAPTCHA */?>
 
 			<div>
-				<input class="submit" type="submit" name="register_submit_button" value="<?=GetMessage("AUTH_REGISTER")?>" />
+				<input class="submit" type="submit" name="register_submit_button" value="Зарегистрироваться" />
 			</div>
 
-			<div>
+			<div class="warning">
 				<p><?php echo $arResult["GROUP_POLICY"]["PASSWORD_REQUIREMENTS"];?></p>
 				<p><span class="starrequired">*</span><?=GetMessage("AUTH_REQ")?></p>
 			</div>

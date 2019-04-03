@@ -7,26 +7,43 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-a {
-	color: inherit;
-	text-decoration: none;
-}
-img {
-	max-width: 100%;
-}
 html, body {
     height:100%;
     width:100%;
 }
 body {
-    font: 14px/18px 'OpenSans-Light';
+    font: 18px/30px 'OpenSans-Light';
 	color: #262524;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+h1 {
+	text-align: center;
+	font-size: 24px;
+	line-height: 39.03px;
+}
+h2 {
+	height: 40px;
+	margin-bottom: 33px;
+	text-align : center;
+	color: #fff;
+	background-color: #d36152;
+	font-size: 24px;
+	line-height: 40px;
+}
+h3 {
+	font: 24px/36px 'Myriad Pro';
 }
 ul {
 	list-style: none;
 }
 table {
 	border-collapse: collapse;
+}
+img {
+	max-width: 100%;
 }
 .container {
 	max-width: 1010px;
@@ -39,30 +56,14 @@ table {
 	background-color: #272727;
 	margin-bottom: 15px;
 }
-h1 {
-	text-align: center;
-	font-size: 24px;
-	line-height: 39.03px;
-}
 h1 .top-head {
 	color: #818181;
 }
 h1 .bottom-head {
 	color: #d36152;
 }
-h2 {
-	height: 40px;
-	margin-bottom: 33px;
-	text-align : center;
-	color: #fff;
-	background-color: #d36152;
-	font-size: 24px;
-	line-height: 40px;
-}
-h3 {
-	font: 18px/36px 'Myriad Pro';
-}
 header .cta {
+	font: 14px/1em 'Myriad Pro';
 	float: right;
 }
 .social-icon {
@@ -72,7 +73,6 @@ header .cta {
 	border-radius: 50%;
 	text-align: center;
 	line-height: 28px;
-	font-family: 'Myriad Pro';
 	color: #fff;
 	margin-left: 10px;
 }
@@ -125,10 +125,12 @@ header .cta {
 /*HEADER END*/
 
 /*MAIN CONTENT BEGIN*/
+.article p {
+	margin: 5px 0 20px;
+}
 .banner {
 	margin-bottom: 19px;
 }
-
 .registered-users {
 	height: 320px;
 }
